@@ -2,7 +2,7 @@ Vagrant.require_version ">=2.2.15"
 
 Vagrant.configure("2") do | config |
     config.vagrant.host = :detect
-    config.vm.box = "xubuntu"
+    config.vm.box = "jmm288/xubuntu"
     config.vm.boot_timeout = 300
     config.vm.box_check_update = true
     
