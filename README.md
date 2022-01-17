@@ -16,8 +16,8 @@ Provider: VirtualBox
 - SDK Man
 
 ## Installaltion Instructions
-1.) vagrant up
-2.) Wait a bit, it's a big image.
+1. vagrant up
+2. Wait a bit, it's a big image.
 
 ## Networking
 - You may need to adjust the network to a NAT network to access your host machines VPN.
