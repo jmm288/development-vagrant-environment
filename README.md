@@ -8,7 +8,7 @@ Provider: VirtualBox
 - AWS CLI
 - Terraform
 - JetBrains Pycharm IDE
-- JetBrains Datagrip Database tool
+- JetBrains IDEA
 - Kubectl
 - Helm
 - Python
